@@ -30,12 +30,32 @@ RSpec.describe 'Course Index' do
     end
   end
 
-  # User Story 4 of 4
+  #   User Story Extension
   #
-  # As a visitor,
-  # When I visit '/students'
-  # I see the average age of all students.
+  # Students index page shows students in alphabetical order.
+  # Courses index page shows courses in alphabetical order.
+  # And the courses index page also shows students per course in alphabetical order.
   #
-  # (e.g. "Average Age: 14.5")
-  
+  # (e.g. "Defense Against the Dark Arts: 3"
+  #       "- Elizabeth Burke"
+  #       "- Phineas Black"
+  #       "- Russell Lucky"
+
+  it 'shows courses and students are in alphabetical order'  do
+    hermione = Student.create!(name: "Hermione Granger", age: 15, house: "Gryffindor")
+    casseopia = Student.create!(name: "Casseopia Black", age: 14, house: "Slytherin")
+
+    potions = Course.create!(name: "Potions")
+    spells = Course.create!(name: "Spells")
+
+    potions.students << casseopia
+    potions.students << hermione
+    spells.students << hermione
+
+    visit '/courses'
+
+    within "#course-#{potions.id}"
+    expect(casseopia.name).to appear_before(hermione.name)
+  end
+
 end

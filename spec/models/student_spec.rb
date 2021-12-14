@@ -21,5 +21,4 @@ RSpec.describe Student, type: :model do
       expect(Student.average_age).to eq(14.5)
     end
   end
-
 end

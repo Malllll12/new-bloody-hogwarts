@@ -7,4 +7,8 @@ class Course < ApplicationRecord
   def student_count
     students.count
   end
+
+  def self.in_alphabetical_order
+    order(:name)
+  end
 end

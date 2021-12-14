@@ -22,6 +22,14 @@ RSpec.describe 'Student Index' do
     end
   end
 
+    # User Story 4 of 4
+    #
+    # As a visitor,
+    # When I visit '/students'
+    # I see the average age of all students.
+    #
+    # (e.g. "Average Age: 14.5"
+
   it 'shows average age of students' do
     casseopia = Student.create!(name: "Casseopia Black", age: 14, house: "Slytherin")
     hermione = Student.create!(name: "Hermione Granger", age: 15, house: "Gryffindor")
