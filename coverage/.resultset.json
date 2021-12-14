@@ -244,12 +244,42 @@
           null,
           1,
           1,
+          null,
+          1,
           null
         ]
       },
       "/Users/malloryvining/turing/mod_2/ic_practice/new-bloody-hogwarts/app/helpers/application_helper.rb": {
         "lines": [
           1,
+          null
+        ]
+      },
+      "/Users/malloryvining/turing/mod_2/ic_practice/new-bloody-hogwarts/spec/features/students/index_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
           null
         ]
       },
@@ -272,13 +302,8 @@
           1,
           1,
           null,
-          null,
-          null,
-          null,
-          null,
           1,
           null,
-          1,
           1,
           1,
           null,
@@ -300,6 +325,25 @@
           2,
           null,
           null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          null,
+          null,
+          null,
+          null,
           null
         ]
       },
@@ -310,6 +354,10 @@
           1,
           null,
           1,
+          null,
+          1,
+          6,
+          null,
           null
         ]
       },
@@ -372,6 +420,21 @@
           null
         ]
       },
+      "/Users/malloryvining/turing/mod_2/ic_practice/new-bloody-hogwarts/app/controllers/courses_controller.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/malloryvining/turing/mod_2/ic_practice/new-bloody-hogwarts/app/controllers/application_controller.rb": {
+        "lines": [
+          1,
+          null
+        ]
+      },
       "/Users/malloryvining/turing/mod_2/ic_practice/new-bloody-hogwarts/app/controllers/students_controller.rb": {
         "lines": [
           1,
@@ -384,14 +447,8 @@
           null,
           null
         ]
-      },
-      "/Users/malloryvining/turing/mod_2/ic_practice/new-bloody-hogwarts/app/controllers/application_controller.rb": {
-        "lines": [
-          1,
-          null
-        ]
       }
     },
-    "timestamp": 1639449711
+    "timestamp": 1639450755
   }
 }
