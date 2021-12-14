@@ -1,7 +1,7 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/mdao/Turing/new_bloody_hogwarts/config/environment.rb": {
+      "/Users/malloryvining/turing/mod_2/ic_practice/new-bloody-hogwarts/config/environment.rb": {
         "lines": [
           null,
           1,
@@ -10,7 +10,7 @@
           1
         ]
       },
-      "/Users/mdao/Turing/new_bloody_hogwarts/config/application.rb": {
+      "/Users/malloryvining/turing/mod_2/ic_practice/new-bloody-hogwarts/config/application.rb": {
         "lines": [
           1,
           null,
@@ -47,7 +47,7 @@
           null
         ]
       },
-      "/Users/mdao/Turing/new_bloody_hogwarts/config/boot.rb": {
+      "/Users/malloryvining/turing/mod_2/ic_practice/new-bloody-hogwarts/config/boot.rb": {
         "lines": [
           1,
           null,
@@ -55,7 +55,7 @@
           1
         ]
       },
-      "/Users/mdao/Turing/new_bloody_hogwarts/config/environments/test.rb": {
+      "/Users/malloryvining/turing/mod_2/ic_practice/new-bloody-hogwarts/config/environments/test.rb": {
         "lines": [
           1,
           null,
@@ -105,7 +105,7 @@
           null
         ]
       },
-      "/Users/mdao/Turing/new_bloody_hogwarts/config/initializers/application_controller_renderer.rb": {
+      "/Users/malloryvining/turing/mod_2/ic_practice/new-bloody-hogwarts/config/initializers/application_controller_renderer.rb": {
         "lines": [
           null,
           null,
@@ -117,7 +117,7 @@
           null
         ]
       },
-      "/Users/mdao/Turing/new_bloody_hogwarts/config/initializers/assets.rb": {
+      "/Users/malloryvining/turing/mod_2/ic_practice/new-bloody-hogwarts/config/initializers/assets.rb": {
         "lines": [
           null,
           null,
@@ -135,7 +135,7 @@
           null
         ]
       },
-      "/Users/mdao/Turing/new_bloody_hogwarts/config/initializers/backtrace_silencers.rb": {
+      "/Users/malloryvining/turing/mod_2/ic_practice/new-bloody-hogwarts/config/initializers/backtrace_silencers.rb": {
         "lines": [
           null,
           null,
@@ -146,7 +146,7 @@
           null
         ]
       },
-      "/Users/mdao/Turing/new_bloody_hogwarts/config/initializers/content_security_policy.rb": {
+      "/Users/malloryvining/turing/mod_2/ic_practice/new-bloody-hogwarts/config/initializers/content_security_policy.rb": {
         "lines": [
           null,
           null,
@@ -175,7 +175,7 @@
           null
         ]
       },
-      "/Users/mdao/Turing/new_bloody_hogwarts/config/initializers/cookies_serializer.rb": {
+      "/Users/malloryvining/turing/mod_2/ic_practice/new-bloody-hogwarts/config/initializers/cookies_serializer.rb": {
         "lines": [
           null,
           null,
@@ -184,7 +184,7 @@
           1
         ]
       },
-      "/Users/mdao/Turing/new_bloody_hogwarts/config/initializers/filter_parameter_logging.rb": {
+      "/Users/malloryvining/turing/mod_2/ic_practice/new-bloody-hogwarts/config/initializers/filter_parameter_logging.rb": {
         "lines": [
           null,
           null,
@@ -192,7 +192,7 @@
           1
         ]
       },
-      "/Users/mdao/Turing/new_bloody_hogwarts/config/initializers/inflections.rb": {
+      "/Users/malloryvining/turing/mod_2/ic_practice/new-bloody-hogwarts/config/initializers/inflections.rb": {
         "lines": [
           null,
           null,
@@ -212,7 +212,7 @@
           null
         ]
       },
-      "/Users/mdao/Turing/new_bloody_hogwarts/config/initializers/mime_types.rb": {
+      "/Users/malloryvining/turing/mod_2/ic_practice/new-bloody-hogwarts/config/initializers/mime_types.rb": {
         "lines": [
           null,
           null,
@@ -220,7 +220,7 @@
           null
         ]
       },
-      "/Users/mdao/Turing/new_bloody_hogwarts/config/initializers/wrap_parameters.rb": {
+      "/Users/malloryvining/turing/mod_2/ic_practice/new-bloody-hogwarts/config/initializers/wrap_parameters.rb": {
         "lines": [
           null,
           null,
@@ -238,32 +238,73 @@
           null
         ]
       },
-      "/Users/mdao/Turing/new_bloody_hogwarts/config/routes.rb": {
+      "/Users/malloryvining/turing/mod_2/ic_practice/new-bloody-hogwarts/config/routes.rb": {
+        "lines": [
+          1,
+          null,
+          null,
+          1,
+          null
+        ]
+      },
+      "/Users/malloryvining/turing/mod_2/ic_practice/new-bloody-hogwarts/app/helpers/application_helper.rb": {
         "lines": [
           1,
           null
         ]
       },
-      "/Users/mdao/Turing/new_bloody_hogwarts/app/helpers/application_helper.rb": {
+      "/Users/malloryvining/turing/mod_2/ic_practice/new-bloody-hogwarts/spec/models/course_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/malloryvining/turing/mod_2/ic_practice/new-bloody-hogwarts/app/models/course.rb": {
         "lines": [
           1,
           null
         ]
       },
-      "/Users/mdao/Turing/new_bloody_hogwarts/app/models/course.rb": {
-        "lines": [
-          1,
-          null
-        ]
-      },
-      "/Users/mdao/Turing/new_bloody_hogwarts/app/models/application_record.rb": {
+      "/Users/malloryvining/turing/mod_2/ic_practice/new-bloody-hogwarts/app/models/application_record.rb": {
         "lines": [
           1,
           1,
           null
         ]
       },
-      "/Users/mdao/Turing/new_bloody_hogwarts/spec/models/student_course_spec.rb": {
+      "/Users/malloryvining/turing/mod_2/ic_practice/new-bloody-hogwarts/spec/models/student_course_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/malloryvining/turing/mod_2/ic_practice/new-bloody-hogwarts/app/models/student_course.rb": {
+        "lines": [
+          1,
+          null
+        ]
+      },
+      "/Users/malloryvining/turing/mod_2/ic_practice/new-bloody-hogwarts/spec/models/student_spec.rb": {
         "lines": [
           1,
           null,
@@ -272,44 +313,40 @@
           1,
           2,
           2,
+          2,
+          null,
+          null,
+          1,
+          null,
+          null,
           null,
           null,
           null
         ]
       },
-      "/Users/mdao/Turing/new_bloody_hogwarts/app/models/student_course.rb": {
+      "/Users/malloryvining/turing/mod_2/ic_practice/new-bloody-hogwarts/app/models/student.rb": {
         "lines": [
           1,
+          1,
           null
         ]
       },
-      "/Users/mdao/Turing/new_bloody_hogwarts/spec/models/student_spec.rb": {
+      "/Users/malloryvining/turing/mod_2/ic_practice/new-bloody-hogwarts/app/controllers/students_controller.rb": {
         "lines": [
           1,
-          null,
           1,
-          null,
           1,
-          2,
-          2,
-          2,
-          null,
-          null,
-          1,
-          2,
-          2,
-          null,
           null,
           null
         ]
       },
-      "/Users/mdao/Turing/new_bloody_hogwarts/app/models/student.rb": {
+      "/Users/malloryvining/turing/mod_2/ic_practice/new-bloody-hogwarts/app/controllers/application_controller.rb": {
         "lines": [
           1,
           null
         ]
       }
     },
-    "timestamp": 1639004621
+    "timestamp": 1639448590
   }
 }
