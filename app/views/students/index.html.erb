@@ -1,3 +1,4 @@
+<p>Average student age: <%= @students.average_age.round(2) %> </p>
 <% @students.each do |student| %>
   <section id = "student-<%= student.id %>">
     <p><%= student.name %></p>

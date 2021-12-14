@@ -29,4 +29,13 @@ RSpec.describe 'Course Index' do
       expect(page).to have_content("#{spells.name}: #{spells.student_count}")
     end
   end
+
+  # User Story 4 of 4
+  #
+  # As a visitor,
+  # When I visit '/students'
+  # I see the average age of all students.
+  #
+  # (e.g. "Average Age: 14.5")
+  
 end
